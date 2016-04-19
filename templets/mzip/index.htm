@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>{dede:global.cfg_webname/}</title>
+<meta name="description" content="{dede:global.cfg_description/}" />
+<meta name="keywords" content="{dede:global.cfg_keywords/}" />
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/css/style.css"/>
+</head>
+
+<body>
+{dede:include filename='head.htm'/}
+<div id="content">
+	<ul class="con-top">
+    	<li>
+        	<h3><a href="/a/OEMjiagong/"><img src="{dede:global.cfg_templets_skin/}/images/con_top_01.png" width="93" height="24" alt="OEM加工" /></a></h3>
+            <p>适用于家庭，小型办公场所（面积100㎡以下）</p>
+        </li>
+        <li>
+        	<h3><a href="#"><img src="{dede:global.cfg_templets_skin/}/images/con_top_02.png" width="93" height="24" alt="公司优势" /></a></h3>
+            <p>适用于中型办公场所及人员集中区域（面积100㎡～200㎡）</p>
+        </li>
+        <li>
+        	<h3><a href="#"><img src="{dede:global.cfg_templets_skin/}/images/con_top_03.png" width="93" height="24" alt="品牌展示" /></a></h3>
+            <p>适用于大规模人员集中区域，如写字楼，办公大楼，学校等集中供气区域（面积200㎡以上）</p>
+        </li>
+        <li>
+        	<h3><a href="#"><img src="{dede:global.cfg_templets_skin/}/images/con_top_04.png" width="107" height="24" alt="招商加盟" /></a></h3>
+            <p>设备根据客户实际情况定制</p>
+        </li>
+    </ul>
+    <div class="con-bot">
+    	
+        <div class="con-bot-con">
+		{dede:type typeid='6'}
+        	<h2><a href="[field:typeurl/]"><img src="[field:global.cfg_templets_skin/]/images/con_bot_c_tit.png" width="176" height="36" alt="[field:typename/]" /></a><span><a href="[field:typeurl/]"><img src="[field:global.cfg_templets_skin/]/images/con_bot_more.png" width="28" height="16" alt="更多" /></a></span></h2>{/dede:type}
+            <ul>
+			{dede:arclist typeid='6' row='4'}
+            	<li><a href="[field:arcurl/]" class="img"><img src="[field:litpic/]" width="200" height="150" alt="[field:title/]" /></a><a href="[field:arcurl/]">[field:title/]</a></li>
+			{/dede:arclist}
+            </ul>
+        </div>		
+	</div>
+	
+	<div class="con-bot">
+		<div class="con-bot-left">
+		{dede:type typeid='7'}
+        	<h2><a href="[field:typeurl/]"><img src="[field:global.cfg_templets_skin/]/images/con_bot_l_tit.png" width="130" height="36" alt="[field:typename/]" /></a><span><a href="[field:typeurl/]"><img src="[field:global.cfg_templets_skin/]/images/con_bot_more.png" width="28" height="16" alt="更多" /></a></span></h2>
+            <dl>
+            	<dt><img src="[field:global.cfg_templets_skin/]/images/about.jpg" width="200" height="150" alt="关于我们" /></dt>
+                <dd><p><script src='[field:global.cfg_cmsurl/]/plus/mytag_js.php?aid=1' language='javascript'></script>... <a href="[field:typeurl/]">详细内容>></a></p></dd>
+            </dl>
+		{/dede:type}
+        </div>
+        <div class="con-bot-right">
+		{dede:type typeid='7'}
+        	<h2><a href="[field:typeurl/]"><img src="[field:global.cfg_templets_skin/]/images/con_bot_r_tit.png" width="142" height="36" alt="[field:typename/]" /></a><span><a href="[field:typeurl/]"><img src="[field:global.cfg_templets_skin/]/images/con_bot_more.png" width="28" height="16" alt="更多" /></a></span></h2>{/dede:type}
+            <p><script src='{dede:global.cfg_cmsurl/}/plus/mytag_js.php?aid=2' language='javascript'></script></p>
+        </div>
+    </div>
+    
+</div>
+{dede:include filename='footer.htm'/}
+</body>
+</html>

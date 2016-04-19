@@ -1,0 +1,1 @@
+<h2><a href="[field:typeurl/]"><img src="[field:global.cfg_templets_skin/]/images/con_bot_r_tit.png" width="142" height="36" alt="[field:typename/]" /></a><span><a href="[field:typeurl/]"><img src="[field:global.cfg_templets_skin/]/images/con_bot_more.png" width="28" height="16" alt="更多" /></a></span></h2>

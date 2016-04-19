@@ -1,0 +1,7 @@
+INSERT INTO `dede_uploads` VALUES('1','7','魔客吧-建站资源共享平台','/uploads/allimg/140121/1-140121211F90-L.jpg','1','0','0','0','41354','1390310229','1');
+INSERT INTO `dede_uploads` VALUES('2','9','膜法富氧新风系统MZY-XF-10','/uploads/allimg/160417/1-16041G45205N2.jpg','1','4160','2336','0','2483269','1460875925','1');
+INSERT INTO `dede_uploads` VALUES('3','10','膜法富氧新风系统MZY-XF-75','/uploads/allimg/160417/1-16041G4532D58.jpg','1','3264','1840','0','539736','1460876006','1');
+INSERT INTO `dede_uploads` VALUES('4','8','膜法富氧新风系统 MZY-XF-05','/uploads/allimg/160417/1-16041G45604405.png','1','886','886','0','548644','1460876164','1');
+INSERT INTO `dede_uploads` VALUES('5','8','MZY-XF-05 富氧新风系统','/uploads/allimg/160417/1-16041G546325X.png','1','886','886','0','524967','1460879192','1');
+INSERT INTO `dede_uploads` VALUES('6','8','MZY-XF-05 富氧新风系统','/uploads/allimg/160417/1-16041G54Z91C.png','1','886','886','0','524967','1460879349','1');
+INSERT INTO `dede_uploads` VALUES('7','9','MZY-XF-10 膜法富氧新风系统','/uploads/allimg/160417/1-16041G55340O4.jpg','1','2470','2336','0','206873','1460879620','1');
