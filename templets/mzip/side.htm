@@ -1,13 +1,27 @@
 <div class="list-side">
       <h3>{dede:type typeid='6'}[field:typename/]{/dede:type}</h3>
-      <ul class="list-side-nav">
+      <!--ul class="list-side-nav">
       {dede:channel typeid='6'}
         <li><a href="[field:typeurl/]">[field:typename/]</a></li>
       {/dede:channel}
-      </ul>
+      </ul-->
+	 
+	 
+	<ul class="list-side-nav">
+	{dede:arclist typeid='6' row='4'}
+		<li>				
+		<a href="[field:arcurl/]">[field:title/]</a></li>
+	{/dede:arclist}
+	</ul>
+	 
       <span class="bot"></span>
       <h3>联系我们</h3>
       <div class="side-p">
-        <p><script src='{dede:global.cfg_cmsurl/}/plus/mytag_js.php?aid=2' language='javascript'></script></p>
+        <p>
+			<!--script src='{dede:global.cfg_cmsurl/}/plus/mytag_js.php?aid=2' language='javascript'></script-->
+			邮箱：scljtz@163.com<br>
+			电话：028-66070930<br>
+			地址：成都市高新区天府大道北段1480号1号楼A座B05附1-1
+		</p>
       </div>
     <span class="bot"></span></div>
