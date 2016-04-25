@@ -29,3 +29,6 @@ INSERT INTO `dede_uploads` VALUES('28','17','西藏自治区党委','/uploads/al
 INSERT INTO `dede_uploads` VALUES('29','0','160421/1-160421211950M6.jpg','/uploads/allimg/160421/1-160421211950M6.jpg','1','2548','3480','0','682833','1461244790','1');
 INSERT INTO `dede_uploads` VALUES('30','0','160421/1-160421212021155.png','/uploads/allimg/160421/1-160421212021155.png','1','765','1085','0','1400581','1461244821','1');
 INSERT INTO `dede_uploads` VALUES('31','0','160421/1-160421212041260.png','/uploads/allimg/160421/1-160421212041260.png','1','761','1083','0','246272','1461244841','1');
+INSERT INTO `dede_uploads` VALUES('32','12','产品功能','/uploads/allimg/160424/1-16042410140YF.JPG','1','3264','2448','0','1682718','1461464048','1');
+INSERT INTO `dede_uploads` VALUES('33','13',' 膜法富氧新风系统技术原理','/uploads/allimg/160424/1-160424102K2296.jpg','1','611','327','0','70946','1461464872','1');
+INSERT INTO `dede_uploads` VALUES('34','13',' 膜法富氧新风系统技术原理','/uploads/allimg/160424/1-160424102R5234.jpg','1','576','388','0','49753','1461464905','1');
