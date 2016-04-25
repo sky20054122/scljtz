@@ -9,15 +9,15 @@ $z[3]=Array("global","",1247,1279);
 $z[3][4]['name']="cfg_templets_skin";
 $z[4]=Array("global","",1384,1416);
 $z[4][4]['name']="cfg_templets_skin";
-$z[5]=Array("global","",1655,1687);
+$z[5]=Array("global","",1656,1688);
 $z[5][4]['name']="cfg_templets_skin";
 $z[6]=Array("global","",1891,1923);
 $z[6][4]['name']="cfg_templets_skin";
-$z[7]=Array("global","",2129,2161);
+$z[7]=Array("global","",2128,2160);
 $z[7][4]['name']="cfg_templets_skin";
-$z[8]=Array("global","",2458,2490);
+$z[8]=Array("global","",2456,2488);
 $z[8][4]['name']="cfg_templets_skin";
-$z[9]=Array("global","",2661,2693);
+$z[9]=Array("global","",2659,2691);
 $z[9][4]['name']="cfg_templets_skin";
 
 ?>
