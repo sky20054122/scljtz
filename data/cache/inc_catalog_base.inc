@@ -8,6 +8,7 @@ $cfg_Cs[5]=array(0,1,1,'5Yqg55uf5ZCI5L2c');
 $cfg_Cs[6]=array(0,1,1,'5Lqn5ZOB5bGV56S6');
 $cfg_Cs[7]=array(0,1,1,'5YWs5Y+4566A5LuL');
 $cfg_Cs[24]=array(0,1,1,'5bel56iL5qGI5L6L');
+$cfg_Cs[25]=array(0,1,1,'5Lqn5ZOB54m554K5');
 $cfg_Cs[9]=array(6,1,1,'IOiGnOazleWvjOawp+aWsOmjjuezu+e7nw==');
 $cfg_Cs[10]=array(6,1,1,'IOiGnOazleWvjOawp+aWsOmjjuezu+e7nw==');
 $cfg_Cs[11]=array(6,1,1,'IOiGnOazleWvjOawp+aWsOmjjuezu+e7nw==');
