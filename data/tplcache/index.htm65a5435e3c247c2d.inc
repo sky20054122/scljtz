@@ -19,15 +19,17 @@ $z[8]=Array("global","",1491,1523);
 $z[8][4]['name']="cfg_templets_skin";
 $z[9]=Array("type","\n        	<h2><a href=\"[field:typeurl/]\"><img src=\"[field:global.cfg_templets_skin/]/images/con_bot_c_tit.png\" width=\"176\" height=\"36\" alt=\"[field:typename/]\" /></a><span><a href=\"[field:typeurl/]\"><img src=\"[field:global.cfg_templets_skin/]/images/con_bot_more.png\" width=\"28\" height=\"16\" alt=\"更多\" /></a></span></h2>",1749,2104);
 $z[9][4]['typeid']="6";
-$z[10]=Array("arclist","\n            	<li><a href=\"[field:arcurl/]\" class=\"img\"><img src=\"[field:litpic/]\" width=\"200\" height=\"150\" alt=\"[field:title/]\" /></a><a href=\"[field:arcurl/]\">[field:title/]</a></li>\n			",2125,2361);
+$z[10]=Array("arclist","\n            	<li><a href=\"[field:arcurl/]\" class=\"img\"><img src=\"[field:litpic/]\" width=\"200\" height=\"150\" alt=\"[field:title/]\" /></a><a href=\"[field:arcurl/]\">[field:title/]</a></li>\n			",2125,2389);
 $z[10][4]['typeid']="6";
 $z[10][4]['row']="4";
-$z[11]=Array("type","\n        	<h2><a href=\"[field:typeurl/]\"><img src=\"[field:global.cfg_templets_skin/]/images/con_bot_g_tit.png\" width=\"176\" height=\"36\" alt=\"[field:typename/]\" /></a><span><a href=\"[field:typeurl/]\"><img src=\"[field:global.cfg_templets_skin/]/images/con_bot_more.png\" width=\"28\" height=\"16\" alt=\"更多\" /></a></span></h2>",2493,2849);
+$z[10][4]['orderby']="id";
+$z[10][4]['orderway']="asc";
+$z[11]=Array("type","\n        	<h2><a href=\"[field:typeurl/]\"><img src=\"[field:global.cfg_templets_skin/]/images/con_bot_g_tit.png\" width=\"176\" height=\"36\" alt=\"[field:typename/]\" /></a><span><a href=\"[field:typeurl/]\"><img src=\"[field:global.cfg_templets_skin/]/images/con_bot_more.png\" width=\"28\" height=\"16\" alt=\"更多\" /></a></span></h2>",2521,2877);
 $z[11][4]['typeid']="24";
-$z[12]=Array("arclist","\n            	<li><a href=\"[field:arcurl/]\" class=\"img\"><img src=\"[field:litpic/]\" width=\"200\" height=\"150\" alt=\"[field:title/]\" /></a><a href=\"[field:arcurl/]\">[field:title/]</a></li>\n			",2870,3107);
+$z[12]=Array("arclist","\n            	<li><a href=\"[field:arcurl/]\" class=\"img\"><img src=\"[field:litpic/]\" width=\"200\" height=\"150\" alt=\"[field:title/]\" /></a><a href=\"[field:arcurl/]\">[field:title/]</a></li>\n			",2898,3135);
 $z[12][4]['typeid']="24";
 $z[12][4]['row']="4";
-$z[13]=Array("include","",3196,3233);
+$z[13]=Array("include","",3224,3261);
 $z[13][4]['filename']="footer.htm";
 
 ?>

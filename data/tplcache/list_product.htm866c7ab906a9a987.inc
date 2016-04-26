@@ -18,10 +18,12 @@ $z[7]=Array("field","",811,833);
 $z[7][4]['name']="typename";
 $z[8]=Array("field","",899,921);
 $z[8][4]['name']="position";
-$z[9]=Array("list","\r\n                <li><a class=\"pic\" href=\"[field:arcurl/]\"><img src=\"[field:litpic/]\" width=\"162\" height=\"123\" alt=\"[field:title/]\" /></a><a href=\"[field:arcurl/]\">[field:title/]</a></li>\r\n			",999,1229);
+$z[9]=Array("list","\r\n                <li><a class=\"pic\" href=\"[field:arcurl/]\"><img src=\"[field:litpic/]\" width=\"162\" height=\"123\" alt=\"[field:title/]\" /></a><a href=\"[field:arcurl/]\">[field:title/]</a></li>\r\n			",999,1257);
 $z[9][4]['pagesize']="16";
-$z[10]=Array("pagelist","",1296,1312);
-$z[11]=Array("include","",1339,1376);
+$z[9][4]['orderby']="id";
+$z[9][4]['orderway']="asc";
+$z[10]=Array("pagelist","",1324,1340);
+$z[11]=Array("include","",1367,1404);
 $z[11][4]['filename']="footer.htm";
 
 ?>
