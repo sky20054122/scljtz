@@ -13,11 +13,11 @@ $z[5]=Array("global","",1656,1688);
 $z[5][4]['name']="cfg_templets_skin";
 $z[6]=Array("global","",1891,1923);
 $z[6][4]['name']="cfg_templets_skin";
-$z[7]=Array("global","",2128,2160);
+$z[7]=Array("global","",2134,2166);
 $z[7][4]['name']="cfg_templets_skin";
-$z[8]=Array("global","",2456,2488);
+$z[8]=Array("global","",2464,2496);
 $z[8][4]['name']="cfg_templets_skin";
-$z[9]=Array("global","",2659,2691);
+$z[9]=Array("global","",2667,2699);
 $z[9][4]['name']="cfg_templets_skin";
 
 ?>

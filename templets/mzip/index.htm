@@ -11,7 +11,7 @@
 <body>
 {dede:include filename='head.htm'/}
 <div id="content">
-	<ul class="con-top">
+	<!--ul class="con-top">
     	<li style="background: url({dede:global.cfg_templets_skin/}/images/1.png) no-repeat top;">
         	<h3><a href="/a/OEMjiagong/"></a></h3>
             <p></p>
@@ -24,11 +24,25 @@
         	<h3><a href="#"></a></h3>
             <p></p>
         </li>
-        <li style="background: url({dede:global.cfg_templets_skin/}/images/4.png) no-repeat top;">
-        	<h3><a href="#"></a></h3>
-            <p></p>
+        <li>
+        	<a href="#">
+				<img src="{dede:global.cfg_templets_skin/}/images/4.png" width="233" height="86">
+			</a>
+            
         </li>
+    </ul-->
+	
+	<ul class="con-top">
+    	{dede:arclist typeid='25' row='4' orderby='id' orderway='asc'}
+            	<li>
+				<a href="[field:arcurl/]" class="img">
+					<img src="[field:litpic/]" width="233" height="86" alt="[field:title/]" />
+				</a>
+				<!--a href="[field:arcurl/]">[field:title/]</a-->
+				</li>
+		{/dede:arclist}
     </ul>
+	
     <div class="con-bot">    	
         <div class="con-bot-con">
 		{dede:type typeid='6'}
