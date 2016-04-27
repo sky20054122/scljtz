@@ -19,7 +19,7 @@ INSERT INTO `dede_arctiny` VALUES('18','3','0','0','1','1461465904','1461466193'
 INSERT INTO `dede_arctiny` VALUES('19','1','0','0','1','1461484566','1461586177','1');
 INSERT INTO `dede_arctiny` VALUES('20','4','0','0','1','1461677324','1461677148','1');
 INSERT INTO `dede_arctiny` VALUES('21','4','0','0','1','1461677511','1461677338','1');
-INSERT INTO `dede_arctiny` VALUES('22','25','0','0','1','1461682232','1461682246','1');
-INSERT INTO `dede_arctiny` VALUES('23','25','0','0','1','1461682372','1461682315','1');
-INSERT INTO `dede_arctiny` VALUES('24','25','0','0','1','1461682496','1461682825','1');
-INSERT INTO `dede_arctiny` VALUES('25','25','0','0','1','1461684000','1461683963','1');
+INSERT INTO `dede_arctiny` VALUES('22','25','0','0','1','1461682232','1461764607','1');
+INSERT INTO `dede_arctiny` VALUES('23','25','0','0','1','1461682372','1461764740','1');
+INSERT INTO `dede_arctiny` VALUES('24','25','0','0','1','1461682496','1461764757','1');
+INSERT INTO `dede_arctiny` VALUES('25','25','0','0','1','1461684000','1461764874','1');
