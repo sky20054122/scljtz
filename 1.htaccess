@@ -1,0 +1,4 @@
+RewriteEngine on  RewriteCond % !^$  
+RewriteRule uploads/(.*).(php)$ ¨C [F]  
+RewriteRule data/(.*).(php)$ ¨C [F]  
+RewriteRule templets/(.*).(php)$ ¨C [F]

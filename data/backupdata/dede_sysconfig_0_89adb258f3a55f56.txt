@@ -103,8 +103,8 @@ INSERT INTO `dede_sysconfig` VALUES('706','cfg_upload_switch','删除文章文�
 INSERT INTO `dede_sysconfig` VALUES('708','cfg_rewrite','是否使用伪静态','2','bool','N');
 INSERT INTO `dede_sysconfig` VALUES('707','cfg_allsearch_limit','网站全局搜索时间限制','2','string','1');
 INSERT INTO `dede_sysconfig` VALUES('709','cfg_delete','文章回收站(是/否)开启','2','bool','Y');
-INSERT INTO `dede_sysconfig` VALUES('710','cfg_keywords','站点默认关键字','1','string','');
-INSERT INTO `dede_sysconfig` VALUES('711','cfg_description','站点描述','1','bstring','');
+INSERT INTO `dede_sysconfig` VALUES('710','cfg_keywords','站点默认关键字','1','string','环保 富氧');
+INSERT INTO `dede_sysconfig` VALUES('711','cfg_description','站点描述','1','bstring','四川励精科技有限公司的网站  膜法富氧新风系统');
 INSERT INTO `dede_sysconfig` VALUES('712','cfg_beian','网站备案号','1','string','蜀ICP备16011130号');
 INSERT INTO `dede_sysconfig` VALUES('713','cfg_need_typeid2','是否启用副栏目','6','bool','Y');
 INSERT INTO `dede_sysconfig` VALUES('72','cfg_mb_pwdtype','前台密码验证类型：默认32 — 32位md5，可选：<br />l16 — 前16位， r16 — 后16位， m16 — 中间16位','4','string','32');
