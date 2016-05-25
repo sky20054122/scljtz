@@ -1,0 +1,1 @@
+INSERT INTO `dede_admin` VALUES('1','10','scljtz','892cf4245bb5eb5a57c6','scljtz','sky','yangxiaobing520@163.com','','1462323122','0.0.0.0');
